@@ -1,5 +1,6 @@
-## Hello there! 👋
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/irfansubasi/irfansubasi/main/hello.gif">
+</p>
 <div align="justify">
 I'm İrfan, a passionate explorer in the realm of software, journeying with fervor towards becoming a seasoned Full Stack Web Developer. Writing code is not just a job for me; it's a passion, an arena where creativity is freely expressed. Each new project is a voyage of discovery, and I find immense joy in constantly exploring the boundless potential of web technologies.
 </div>
