@@ -5,9 +5,15 @@
 I'm İrfan, a passionate explorer in the realm of software, journeying with fervor towards becoming a seasoned Full Stack Web Developer. Writing code is not just a job for me; it's a passion, an arena where creativity is freely expressed. Each new project is a voyage of discovery, and I find immense joy in constantly exploring the boundless potential of web technologies.
 </div>
 <br>
-<a href="mailto:irfannsubasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 
-## Technologies & Tools 🔧
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank" href="mailto:irfannsubasi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a target="_blank" href="https://www.linkedin.com/in/irfansubasi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25 /></a>
+  <a target="_blank" href="https://www.instagram.com/irfansubasii/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+</p>
+<h2  align="center">🔧 Technologies & Tools</h2>
 
 <div align="center">
   <table>
